@@ -1,7 +1,8 @@
 # <div align="center">👋 Hello World! I'm **Lithigesh P G**</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+%26+Communication+Engineering+Student;Full+Stack+Developer;IoT+%26+Edge+AI+Enthusiast;Problem+Solver+%26+Tech+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;IoT+Engineer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+
 </div>
 
 ---

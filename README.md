@@ -9,7 +9,9 @@
 I am <strong>Lithigesh P G</strong>, an undergraduate student in <strong>Computer and Communication Engineering</strong> at <strong>Amrita Vishwa Vidyapeetham</strong> and an active member of the <strong>Intel IoT Club</strong>.
 
 I'm passionate about building <strong>scalable and intelligent systems</strong>, with a focus on:
-- Java & Full Stack Development  
+- Java with OOPs  
+- Full Stack Development  
+- Data Structures & Algorithms  
 - Industrial IoT  
 - Edge AI & Deep Learning  
 
@@ -17,7 +19,7 @@ I enjoy learning new technologies, building impactful projects, and contributing
 
    </td>
    <td align="center" width="30%">
-     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+     <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%">
    </td>
   </tr>
 </table>
@@ -27,22 +29,25 @@ I enjoy learning new technologies, building impactful projects, and contributing
 ### 🌐 Connect With Me
 
 <p>
-  <a href="mailto:lithigesh@gmail.com" target="_blank">
+  <a href="mailto:lithigesh@gmail.com" target="_blank" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" />
   </a>
-  <a href="https://www.instagram.com/lithigesh_15" target="_blank">
+  <a href="https://www.instagram.com/lithigesh_15" target="_blank" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" />
   </a>
-  <a href="https://www.linkedin.com/in/lithigesh" target="_blank">
+  <a href="https://www.linkedin.com/in/lithigesh" target="_blank" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" />
   </a>
-  <a href="https://leetcode.com/lithigesh" target="_blank">
+  <a href="https://leetcode.com/lithigesh" target="_blank" style="margin-right: 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45" />
   </a>
   <a href="https://www.hackerrank.com/lithigesh" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="45" />
   </a>
 </p>
+
+
+
 
 ---
 
@@ -66,7 +71,6 @@ I enjoy learning new technologies, building impactful projects, and contributing
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
 
 ---
@@ -78,9 +82,12 @@ I enjoy learning new technologies, building impactful projects, and contributing
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithigesh1&layout=compact&theme=tokyonight" height="150" />
 </p>
 
-<p align="center">
+<p align="left">
+  <strong>Profile Views</strong>
+    <br />
   <img src="https://profile-counter.glitch.me/lithigesh1/count.svg" alt="Profile Views" />
 </p>
+
 
 ## 🎮 Contribution Graph
 
